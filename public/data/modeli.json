@@ -1,0 +1,1 @@
+[{"model": "Baseline", "mae": 283033, "mape": 5.36}, {"model": "LightGBM", "mae": 618259, "mape": 8.84}, {"model": "SARIMA", "mae": 607485, "mape": 14.26}]
